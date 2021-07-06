@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "luis gomez",
+      "email": "luis@correo.com",
+      "telefono": "12345678",
+      "empresa": "Compañia Ltd.",
+      "id": 29
+    },
+    {
+      "nombre": "Pedro Castillo",
+      "email": "correo2@correo.com",
+      "telefono": "12345678",
+      "empresa": "Corporacion & co.",
+      "id": 30
+    }
+  ]
+}
